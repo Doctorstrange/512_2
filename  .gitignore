@@ -1,0 +1,4 @@
+# Ignore spreadsheet/data files
+*.xlsx
+*.csv
+*.json
