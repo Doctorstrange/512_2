@@ -2,3 +2,8 @@
 *.xlsx
 *.csv
 *.json
+
+# Ignore ML model weights and matrices
+*.pt
+*.npy
+saved_models/
